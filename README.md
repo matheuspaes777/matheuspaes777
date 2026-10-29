@@ -5,7 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FF&center=true&vcenter=true&width=600&lines=Bacharelando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Back-End+%7C+Java+%26+Spring;Data+Science+%26+Machine+Learning+%7C+Python;Transformando+dados+em+solu%C3%A7%C3%B5es+escal%C3%A1veis)](https://git.io/typing-svg)
 
   <p>
-    <a href="https://linkedin.com/in//in/matheus-thiago-paes-de-barros/" target="_blank">
+    <a href="https://linkedin.com/in/matheus-thiago-paes-de-barros/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:matheusthiagojdsb@gmail.com">
